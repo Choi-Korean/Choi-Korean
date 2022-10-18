@@ -8,14 +8,15 @@
 - Back-end &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   - <img src="https://user-images.githubusercontent.com/87963586/180588499-b0bda391-4152-4f66-84ea-e436f7cd9aac.png" width="35" height="35" />&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/87963586/180588552-7f464fd1-2c3b-465b-9cb5-edda2cd932bc.png" width="35" height="35" />
   - <img src="https://user-images.githubusercontent.com/87963586/180588554-ade3774c-2112-47cf-a3d9-5063c4c8dbf5.png" width="35" height="35" />&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/87963586/180588618-eb871ab6-9c40-49b6-8f3a-3156bfd7720f.png" width="35" height="35" />&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/87963586/180588620-148f85b4-981b-4fd3-9f63-b80a90f63d3e.png" width="35" height="35" />
-  - <img src="https://user-images.githubusercontent.com/87963586/180588642-5bb712db-9627-4537-875e-481b64f542f4.png" width="35" height="35" />
-  - <img src="https://user-images.githubusercontent.com/87963586/180588664-f561d6cc-d66f-4f0e-afef-f07cf4b6fd75.png" width="35" height="35" />&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/87963586/180588666-d3d4958f-53f7-41b5-a244-4ddd5a922782.png" width="35" height="35" />
-  - <img src="https://user-images.githubusercontent.com/87963586/180589574-02ad91f4-7416-496c-bb56-c18bbe755197.png" width="35" height="35" />
+
 
 
 &nbsp;
 
-- DevOps &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- Tool/DevOps &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  - <img src="https://user-images.githubusercontent.com/87963586/180588642-5bb712db-9627-4537-875e-481b64f542f4.png" width="35" height="35" />
+  - <img src="https://user-images.githubusercontent.com/87963586/180588664-f561d6cc-d66f-4f0e-afef-f07cf4b6fd75.png" width="35" height="35" />&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/87963586/180588666-d3d4958f-53f7-41b5-a244-4ddd5a922782.png" width="35" height="35" />
+  - <img src="https://user-images.githubusercontent.com/87963586/180589574-02ad91f4-7416-496c-bb56-c18bbe755197.png" width="35" height="35" />
   - <img src="https://user-images.githubusercontent.com/87963586/180589565-cef7a293-bc90-4ec5-8c1b-2fe912cc7a60.png" width="35" height="35" />&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/87963586/180589569-6e886c69-4775-4d36-8366-33cab97def3f.png" width="35" height="35" />
 
 - Front-end &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
